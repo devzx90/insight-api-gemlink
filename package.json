@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-snowgem",
-  "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-api-tent",
+  "description": "A TENT blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/snowgem/insight-api-snowgem.git",
+  "repository": "git://github.com/TENTOfficial/insight-api-tent.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -42,15 +42,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/snowgem/insight-api-snowgem/issues"
+    "url": "https://github.com/TENTOfficial/insight-api-tent/issues"
   },
-  "homepage": "https://github.com/snowgem/insight-api-snowgem",
+  "homepage": "https://github.com/TENTOfficial/insight-api-tent",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "snowgem api",
+    "tent api",
     "blockchain api",
     "json",
     "bitcore"
@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-snowgem": "snowgem/bitcore-lib-snowgem",
-    "bitcore-message-snowgem": "snowgem/bitcore-message-snowgem",
+    "bitcore-lib-tent": "TENTOfficial/bitcore-lib-tent",
+    "bitcore-message-tent": "TENTOfficial/bitcore-message-tent",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",

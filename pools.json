@@ -1,108 +1,16 @@
 [
   {
-    "poolName": "Miningspeed",
-    "url": "https://snowgem.miningspeed.com/",
-    "searchStrings": [
-      "miningspeed"
-    ]
-  },
-  {
-    "poolName": "Lambomoon",
-    "url": "https://lambomoon.club/",
-    "searchStrings": [
-      "lambomoon"
-    ]
-  },
-  {
-    "poolName": "SnowGem Pool",
-    "url": "https://pool.snowgem.org/",
-    "searchStrings": [
-      "sgpool.net"
-    ]
-  },
-  {
-    "poolName": "MinerManiac",
-    "url": "http://www.minermaniac.com/",
-    "searchStrings": [
-      "minermaniac"
-    ]
-  },
-  {
     "poolName": "Solopool",
-    "url": "https://sng.solopool.org",
+    "url": "https://xsg.solopool.org",
     "searchStrings": [
       "solopool"
     ]
   },
   {
-    "poolName": "Equipool Asia",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "Equipool Asia"
-    ]
-  },
-  {
-    "poolName": "Equipool Europe",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "Equipool North America"
-    ]
-  },
-  {
-    "poolName": "Equipool",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "equipool",
-      "Equipool"
-    ]
-  },
-  {
     "poolName": "Aikapool",
-    "url": "https://aikapool.com/sng/",
+    "url": "https://aikapool.com/xsg/",
     "searchStrings": [
       "Aika"
-    ]
-  },
-  {
-    "poolName": "Miningpools",
-    "url": "http://miningpools.cloud/?pool=snowgem#/",
-    "searchStrings": [
-      "miningpools"
-    ]
-  },
-  {
-    "poolName": "Magnificentpool",
-    "url": "https://sng.magnificentpool.com/",
-    "searchStrings": [
-      "magnificent"
-    ]
-  },
-  {
-    "poolName": "Minepool",
-    "url": "http://sng.minepool.ch/",
-    "searchStrings": [
-      "minepool"
-    ]
-  },
-  {
-    "poolName": "Sexy",
-    "url": "http://sng.pool.sexy",
-    "searchStrings": [
-      "Sexy"
-    ]
-  },
-  {
-    "poolName": "Nibirupool",
-    "url": "http://sng.nibirupool.com/",
-    "searchStrings": [
-      "nibiru"
-    ]
-  },
-  {
-    "poolName": "Pcmining",
-    "url": "http://pcmining.xyz:8080/getting_started",
-    "searchStrings": [
-      "pcmining"
     ]
   },
   {
@@ -110,13 +18,6 @@
     "url": "https://snowgem.zhash.pro/",
     "searchStrings": [
       "zhash"
-    ]
-  },
-  {
-    "poolName": "Blockmasher",
-    "url": "http://snowgem.blocksmasher.org/",
-    "searchStrings": [
-      "blocksmasher"
     ]
   },
   {
@@ -141,59 +42,10 @@
     ]
   },
   {
-    "poolName": "Lucky-Mining",
-    "url": "https://sng.lucky-mining.com.ua/",
-    "searchStrings": [
-      "lucky-mining.com.ua"
-    ]
-  },
-  {
     "poolName": "NOMP pool",
     "url": "https://snowgem.org",
     "searchStrings": [
       "joshuayabut"
-    ]
-  },
-  {
-    "poolName": "Snowgempool",
-    "url": "http://snowgempool.cloud",
-    "searchStrings": [
-      "snowgempool"
-    ]
-  },
-  {
-    "poolName": "CloudPools",
-    "url": "https://cloudpools.net/",
-    "searchStrings": [
-      "cloudpools"
-    ]
-  },
-  {
-    "poolName": "AxePool",
-    "url": "https://snowgem.axepool.com/",
-    "searchStrings": [
-      "axepool"
-    ]
-  },
-  {
-    "poolName": "Abakus Pool",
-    "url": "https://www.abakusmine.eu/",
-    "searchStrings": [
-      "Abakus"
-    ]
-  },
-  {
-    "poolName": "POOOL!",
-    "url": "http://www.POOOL.com/",
-    "searchStrings": [
-      "POOOL.com http://www.POOOL.com/"
-    ]
-  },
-  {
-    "poolName": "Xsgpool",
-    "url": "http://xsgpool.com/",
-    "searchStrings": [
-      "xsgpool.com"
     ]
   },
   {
@@ -253,20 +105,6 @@
     ]
   },
   {
-    "poolName": "Voidr",
-    "url": "https://snowgem.voidr.net/",
-    "searchStrings": [
-      "voidr.net"
-    ]
-  },
-  {
-    "poolName": "Sexy",
-    "url": "http://sng.pool.sexy/#/",
-    "searchStrings": [
-      "pool.sexy"
-    ]
-  },
-  {
     "poolName": "Default s-nomp pool",
     "url": "https://snowgem.org",
     "searchStrings": [
@@ -279,20 +117,6 @@
     "searchStrings": [
       "zerg",
       "Zerg"
-    ]
-  },
-  {
-    "poolName": "Macro Pool",
-    "url": "http://www.macro-pool.com:8080/?page_id=297",
-    "searchStrings": [
-      "Macro-Pool.com"
-    ]
-  },
-  {
-    "poolName": "Fomo Miners",
-    "url": "https://fomominers.com/stats",
-    "searchStrings": [
-      "fomominers.com"
     ]
   },
   {
