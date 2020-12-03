@@ -10,7 +10,7 @@ This is a backend-only service. If you're looking for the web frontend applicati
 npm install -g bitcore-node@latest
 bitcore-node create mynode
 cd mynode
-bitcore-node install insight-api-snowgem
+bitcore-node install insight-api-tent
 bitcore-node start
 ```
 
@@ -409,7 +409,7 @@ Sample output:
 }
 ```
 
-`<snowgemAddress>`: new transaction concerning <snowgemAddress> received from network. This event is published in the `<snowgemAddress>` room.
+`<tentAddress>`: new transaction concerning <tentAddress> received from network. This event is published in the `<tentAddress>` room.
 
 `status`: every 1% increment on the sync task, this event will be triggered. This event is published in the `sync` room.
 
