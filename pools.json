@@ -49,52 +49,45 @@
     ]
   },
   {
-    "poolName": "EquiHub Solo EU",
-    "url": "https://solo-xsg.equihub.pro/",
+    "poolName": "MinerPool Solo EU",
+    "url": "https://solo-tent.minerpool.org/",
     "searchStrings": [
-      "EquiHub Solo EU"
+      "MinerPool Solo EU"
     ]
   },
   {
-    "poolName": "EquiHub Solo US",
-    "url": "https://solo-xsg.equihub.pro/",
+    "poolName": "MinerPool Solo US",
+    "url": "https://solo-tent.minerpool.org/",
     "searchStrings": [
-      "EquiHub Solo US"
+      "MinerPool Solo US"
     ]
   },
   {
-    "poolName": "EquiHub Solo ASIA",
-    "url": "https://solo-xsg.equihub.pro/",
+    "poolName": "MinerPool Solo ASIA",
+    "url": "https://solo-tent.minerpool.org/",
     "searchStrings": [
-      "EquiHub Solo ASIA"
+      "MinerPool Solo ASIA"
     ]
   },
   {
-    "poolName": "EquiHub EU",
-    "url": "https://xsg.equihub.pro/",
+    "poolName": "MinerPool EU",
+    "url": "https://tent.minerpool.org/",
     "searchStrings": [
-      "EquiHub EU"
+      "MinerPool EU"
     ]
   },
   {
-    "poolName": "EquiHub US",
-    "url": "https://xsg.equihub.pro/",
+    "poolName": "MinerPool US",
+    "url": "https://tent.minerpool.org/",
     "searchStrings": [
-      "EquiHub US"
+      "MinerPool US"
     ]
   },
   {
-    "poolName": "EquiHub ASIA",
-    "url": "https://xsg.equihub.pro/",
+    "poolName": "MinerPool ASIA",
+    "url": "https://tent.minerpool.org/",
     "searchStrings": [
-      "EquiHub ASIA"
-    ]
-  },
-  {
-    "poolName": "EquiHub",
-    "url": "https://snowgem.equihub.pro/",
-    "searchStrings": [
-      "https://snowgem.equihub.pro"
+      "MinerPool ASIA"
     ]
   },
   {
