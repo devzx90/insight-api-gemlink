@@ -69,8 +69,8 @@ There are a few changes to the `GET` endpoint for `/addr/[:address]`:
 
 Some additional general notes:
 - The transaction history for an address will be sorted in block order
-- The response for the `/sync` endpoint does not include `startTs` and `endTs` as the sync is no longer relevant as indexes are built in snowgemd.
-- The endpoint for `/peer` is no longer relevant connection to snowgemd is via ZMQ.
+- The response for the `/sync` endpoint does not include `startTs` and `endTs` as the sync is no longer relevant as indexes are built in gemlinkd.
+- The endpoint for `/peer` is no longer relevant connection to gemlinkd is via ZMQ.
 - `/tx` endpoint results will now include block height, and spentTx related fields will be set to `null` if unspent.
 - `/block` endpoint results does not include `confirmations` and will include `poolInfo`.
 
@@ -89,7 +89,7 @@ The `/tx/<txid>` endpoint JSON response will not include the following fields on
 object.
 - `spentTs`
 
-The `/status?q=getTxOutSetInfo` method has also been removed due to the query being very slow and locking snowgemd.
+The `/status?q=getTxOutSetInfo` method has also been removed due to the query being very slow and locking gemlinkd.
 
 Plug-in support for Insight API is also no longer available, as well as the endpoints:
 - `/email/retrieve`
