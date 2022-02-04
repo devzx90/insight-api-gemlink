@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-tent",
+  "name": "insight-api-gemlink",
   "description": "A TENT blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/TENTOfficial/insight-api-tent.git",
+  "repository": "git://github.com/gemlink/insight-api-gemlink.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -42,9 +42,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/TENTOfficial/insight-api-tent/issues"
+    "url": "https://github.com/gemlink/insight-api-gemlink/issues"
   },
-  "homepage": "https://github.com/TENTOfficial/insight-api-tent",
+  "homepage": "https://github.com/gemlink/insight-api-gemlink",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-tent": "TENTOfficial/bitcore-lib-tent",
-    "bitcore-message-tent": "TENTOfficial/bitcore-message-tent",
+    "bitcore-lib-gemlink": "gemlink/bitcore-lib-gemlink",
+    "bitcore-message-gemlink": "gemlink/bitcore-message-gemlink",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
