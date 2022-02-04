@@ -1,6 +1,6 @@
 # Insight API
 
-A TENT blockchain REST and web socket API service for [Bitcore Node](https://github.com/bitpay/bitcore-node).
+A Gemlink blockchain REST and web socket API service for [Bitcore Node](https://github.com/bitpay/bitcore-node).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/bitpay/insight-ui.
 
@@ -20,7 +20,7 @@ The API endpoints will be available by default at: `http://localhost:3001/api/`
 
 - [Bitcore Node 3.x](https://github.com/bitpay/bitcore-node)
 
-**Note:** You can use an existing TENT data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `gemlink.conf`, as well as a few other additional fields.
+**Note:** You can use an existing Gemlink data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `gemlink.conf`, as well as a few other additional fields.
 
 ## Notes on Upgrading from v0.3
 
@@ -364,7 +364,7 @@ POST response:
   /api/peer
 ```
 
-### Status of the TENT Network
+### Status of the Gemlink Network
 ```
   /api/status?q=xxx
 ```
@@ -409,7 +409,7 @@ Sample output:
 }
 ```
 
-`<tentAddress>`: new transaction concerning <tentAddress> received from network. This event is published in the `<tentAddress>` room.
+`<gemlinkAddress>`: new transaction concerning <gemlinkAddress> received from network. This event is published in the `<gemlinkAddress>` room.
 
 `status`: every 1% increment on the sync task, this event will be triggered. This event is published in the `sync` room.
 
