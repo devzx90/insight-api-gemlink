@@ -168,5 +168,12 @@
     "searchStrings": [
       "zeropool"
     ]
+  },
+  {
+    "poolName": "gemlink-pool",
+    "url": "https://gemlink.org/",
+    "searchStrings": [
+      "gemlink-pool"
+    ]
   }
 ]
