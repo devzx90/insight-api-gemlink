@@ -139,5 +139,34 @@
     "searchStrings": [
       "1square.net"
     ]
+  },
+  {
+    "poolName": "2mars.biz",
+    "url": "https://gemlink.2mars.biz/",
+    "searchStrings": [
+      "2mars"
+    ]
+  },
+  {
+    "poolName": "ehpro.ca",
+    "url": "https://ehpro.ca/coins/gemlink",
+    "searchStrings": [
+      "ehpro"
+    ]
+  },
+  {
+    "poolName": "Minerpool",
+    "url": "https://minerpool.org/",
+    "searchStrings": [
+      "Minerpool",
+      "minerpool"
+    ]
+  },
+  {
+    "poolName": "zeropool",
+    "url": "https://zeropool.io/",
+    "searchStrings": [
+      "zeropool"
+    ]
   }
 ]
