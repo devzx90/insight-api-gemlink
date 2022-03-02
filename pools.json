@@ -49,45 +49,59 @@
     ]
   },
   {
-    "poolName": "MinerPool Solo EU",
-    "url": "https://solo-tent.minerpool.org/",
+    "poolName": "EquiHub Solo EU",
+    "url": "https://solo-glink.equihub.pro/",
     "searchStrings": [
-      "MinerPool Solo EU"
+      "EquiHub Solo EU"
     ]
   },
   {
-    "poolName": "MinerPool Solo US",
-    "url": "https://solo-tent.minerpool.org/",
+    "poolName": "EquiHub Solo US-EAST",
+    "url": "https://solo-glink.equihub.pro/",
     "searchStrings": [
-      "MinerPool Solo US"
+      "EquiHub Solo US-EAST"
     ]
   },
   {
-    "poolName": "MinerPool Solo ASIA",
-    "url": "https://solo-tent.minerpool.org/",
+    "poolName": "EquiHub Solo US-WEST",
+    "url": "https://solo-glink.equihub.pro/",
     "searchStrings": [
-      "MinerPool Solo ASIA"
+      "EquiHub Solo US-WEST"
     ]
   },
   {
-    "poolName": "MinerPool EU",
-    "url": "https://tent.minerpool.org/",
+    "poolName": "EquiHub Solo ASIA",
+    "url": "https://solo-glink.equihub.pro/",
     "searchStrings": [
-      "MinerPool EU"
+      "EquiHub Solo ASIA"
     ]
   },
   {
-    "poolName": "MinerPool US",
-    "url": "https://tent.minerpool.org/",
+    "poolName": "EquiHub EU",
+    "url": "https://glink.equihub.pro/",
     "searchStrings": [
-      "MinerPool US"
+      "EquiHub EU"
     ]
   },
   {
-    "poolName": "MinerPool ASIA",
-    "url": "https://tent.minerpool.org/",
+    "poolName": "EquiHub US-EAST",
+    "url": "https://glink.equihub.pro/",
     "searchStrings": [
-      "MinerPool ASIA"
+      "EquiHub US-EAST"
+    ]
+  },
+  {
+    "poolName": "EquiHub US-WEST",
+    "url": "https://glink.equihub.pro/",
+    "searchStrings": [
+      "EquiHub US-WEST"
+    ]
+  },
+  {
+    "poolName": "EquiHub ASIA",
+    "url": "https://glink.equihub.pro/",
+    "searchStrings": [
+      "EquiHub ASIA"
     ]
   },
   {
@@ -138,6 +152,42 @@
     "url": "http://1square.net/",
     "searchStrings": [
       "1square.net"
+    ]
+  },
+  {
+    "poolName": "2mars.biz",
+    "url": "https://gemlink.2mars.biz/",
+    "searchStrings": [
+      "2mars"
+    ]
+  },
+  {
+    "poolName": "ehpro.ca",
+    "url": "https://ehpro.ca/coins/gemlink",
+    "searchStrings": [
+      "ehpro"
+    ]
+  },
+  {
+    "poolName": "Minerpool",
+    "url": "https://minerpool.org/",
+    "searchStrings": [
+      "Minerpool",
+      "minerpool"
+    ]
+  },
+  {
+    "poolName": "zeropool",
+    "url": "https://zeropool.io/",
+    "searchStrings": [
+      "zeropool"
+    ]
+  },
+  {
+    "poolName": "gemlink-pool",
+    "url": "https://gemlink.org/",
+    "searchStrings": [
+      "gemlink-pool"
     ]
   }
 ]
