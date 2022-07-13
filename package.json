@@ -65,7 +65,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-gemlink": "gemlink/bitcore-lib-gemlink",
+    "bitcore-lib-gemlink": "devzx90/bitcore-lib-bitcoin2",
     "bitcore-message-gemlink": "gemlink/bitcore-message-gemlink",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
